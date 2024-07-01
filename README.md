@@ -3,6 +3,7 @@
 ## Introduction
 ### This project centers on the comprehensive assessment of the different bike users and is geared towards creating an improved measure towards achieving customer retention. This analysis tells a vivid story about the customers and their characteristics.
 
+
 ## Questions;
 ### - What is the average age of bike users?
 ### - What is the ratio of customers to subscribers (one-time users)?
@@ -10,8 +11,10 @@
 ### - Which day(s) of the week is the busiest?
 ### - Is bike usage gender related?
 
+
 ## Tools Used; 
 ### Excel (for data cleaning and normalization) and Tableau (for aggregation and visualization)
+
 
 ## Skills Demonstrated;
 ### - Data Cleaning
@@ -19,12 +22,15 @@
 ### - Integrate Microsoft Excel with Tableau
 ### - Make recommendation based on the insight derived from this analysis
 
+
 ## Data Source 
 ### The dataset used in this project can be found here: [Kaggle](https://www.kaggle.com/datasets/akkithetechie/new-york-city-bike-share-dataset)
+
 
 ## Dashboard [Tableau Public](https://public.tableau.com/views/NYC_Bike_Share2015_2017/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 The dashboard contains a page of the interractive dashboard created for the sole purpose of this analysis. The visuals in this dashboard answers the questions asked earlier on. 
 [Image]![NYC Dashboard](https://github.com/NURATBASHIRU/NYC-Bike-Share---Comprehensive-User-Insight/assets/167202411/62784862-d0d4-4569-8d11-8ccdc2bc8760)
+
 
 ## Insights And Recommendations
 ### 1. A total of 677 bikes have been able to serve over 49,075 Users over the period of two years. No customer id was provided in the dataset. So, I ws unable to determine if this figure - 49,075 - is unique or genrated based on repeated usage.
