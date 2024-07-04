@@ -33,10 +33,16 @@ The dashboard contains a page of the interractive dashboard created for the sole
 
 
 ## Insights And Recommendations
-### 1. A total of 677 bikes have been able to serve over 49,075 Users over the period of two years. No customer id was provided in the dataset. So, I ws unable to determine if this figure - 49,075 - is unique or genrated based on repeated usage.
+### 1. A total of 677 bikes have been able to serve over 49,075 Users over the period of two years. 
 ### 2. The average age of users is 44 and the age distribution affirms that the highest frequency of users are in their 40s.
-### 3. Subscribers use the city bike share service more than customers which leads us to ask the next question; How can we convert these subscribers to return users?. However, we don't have enough data to determine that the figure generated for subscribers is a unique value.
-### 4. The top pick-up and drop-off stations are really similar (at least for the top 4 figures) and as much as we may need to channel more bikes and amenities towards these locations, there may be other determinants that has resulted in this outcome (for instance; the demographics of the area and traffic congestion or activities around these locations). More data on these metrics would aid the next step of analysis - so that proper provitions could be made towards customers' satisfaction.
+### 3. Subscribers use the city bike share service more than customers which leads us to ask the next question; How can we convert these subscribers to return users?. 
+### 4. The top pick-up and drop-off stations are really similar (at least for the top 4 figures) 
 ### 5. A significantlly huge number of users are masculine
 ### 6. Saturdays are the busiest days of the week for every user type.
+
+## Limitations
+### A more indepth analysis requies more data because of the following reasons;
+### - No customer id was provided in the dataset. So, I ws unable to determine if this figure - 49,075 - is unique or genrated based on repeated usage.
+### - We don't have enough data to determine if the figure generated for subscribers is actually a unique value or repeated.
+### - As much as we may need to channel more bikes and amenities towards the top locations, there may be other determinants that has resulted in this outcome (for instance; the demographics of the area and traffic congestion or activities around these locations). More data on these metrics would aid the next step of analysis.   So that proper provision could be made towards customers' satisfaction.
 
