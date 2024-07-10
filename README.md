@@ -29,8 +29,7 @@
 
 ## Dashboard [Tableau Public](https://public.tableau.com/views/NYC_Bike_Share2015_2017/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 The dashboard contains a page of the interractive dashboard created for the sole purpose of this analysis. The visuals in this dashboard answers the questions asked earlier on. 
-[Image]![NYC Dashboard](https://github.com/NURATBASHIRU/NYC-Bike-Share---Comprehensive-User-Insight/assets/167202411/62784862-d0d4-4569-8d11-8ccdc2bc8760)
-
+![Screenshot (7)](https://github.com/NURATBASHIRU/NYC-Bike-Share---Comprehensive-User-Insight/assets/167202411/71072215-fd08-4e48-8bbb-3259d6d7480c)
 
 ## Insights And Recommendations
 ### 1. A total of 677 bikes have been able to serve over 49,075 Users over the period of two years. 
